@@ -1,0 +1,24 @@
+#logo{
+    width: 150px;
+}
+header{
+    background-color: red;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+nav ul, header{
+    display: flex;
+    list-style: none;
+}
+nav ul{gap: 15px;}
+h2{
+    color: blue;
+}
+footer{
+    background-color: brown;
+}
+.footertext{
+    color: aqua;
+}
